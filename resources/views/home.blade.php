@@ -42,7 +42,7 @@
                 <div class="panel panel-body">
                     <div class="row form-group">
                         <h2>Cube Summation.</h2>
-                        <h3>Ver el Enunciado <a href="#">aquí</a></h3>
+                        <h3>Ver el Enunciado <a href="https://www.hackerrank.com/challenges/cube-summation">aquí</a></h3>
 
                     </div>
                     
